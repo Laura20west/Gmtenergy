@@ -67,6 +67,8 @@
 
                             </li>
                             <li><a href="#">About</a></li>
+                            <li><a href="/track">Track Record</a></li>
+                            <li><a href="/services">Services</a></li>
 
                             <li><a href="#">Contact</a></li>
                         </ul>
